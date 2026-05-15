@@ -90,7 +90,7 @@ sudo apt install -y ntfs-3g exfatprogs util-linux
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/external-drive.git
+git clone [https://github.com/<your-username>/external-drive.git](https://github.com/Tanvir-Alam625/ubuntu-mount-external-drive)
 cd external-drive
 chmod +x external-drive.sh
 ```
