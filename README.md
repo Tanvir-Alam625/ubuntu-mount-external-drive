@@ -91,7 +91,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Tanvir-Alam625/ubuntu-mount-external-drive
-cd external-drive
+cd ubuntu-mount-external-drive
 chmod +x external-drive.sh
 ```
 
